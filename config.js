@@ -49,7 +49,7 @@ module.exports = {
     REJECT_CALLS: convertToBool(process.env.REJECT_CALLS) || false,
     PMB: process.env.PMB || '_Personal messages not allowed, BLOCKED!_',
     READ_COMMAND: convertToBool(process.env.READ_COMMAND) || true,
-    SESSION: (process.env.SESSION || process.env.SESSION_ID || '').trim() || 'Raganork~152877f49340adb37e652c18bc9bcc65:686234747a577037455a493d',
+    SESSION: (process.env.SESSION || process.env.SESSION_ID || '').trim() || 'Raganork~7bd41860211b094b4fdb25fffa5e7ad0:71636b744a7249332f39553d',
     IMGBB_KEY: ["76a050f031972d9f27e329d767dd988f", "deb80cd12ababea1c9b9a8ad6ce3fab2", "78c84c62b32a88e86daf87dd509a657a"],
     RG: process.env.RG || '919074309534-1632403322@g.us,120363116963909366@g.us',
     BOT_INFO: process.env.BOT_INFO || ' ᴀɴsʜɪғ xᴇʀ;rozario11;0;https://i.imgur.com/a6qfrvI.mp4;https://chat.whatsapp.com/GYwATz9YnKy0c9WygfoY4E',
